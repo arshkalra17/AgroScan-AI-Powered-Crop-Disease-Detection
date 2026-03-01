@@ -2,6 +2,10 @@
 
 AgroScan is a full-stack agricultural platform that integrates advanced AI and machine learning capabilities to help farmers identify plant diseases through image analysis. The application provides real-time disease detection, treatment recommendations, and a complete e-commerce marketplace for agricultural supplies.
 
+![Home](images_for_readme/Home.png)
+![Detection](images_for_readme/Detection.png)
+![MarketPlace](images_for_readme/MarketPlace.png)
+
 ## 🚀 Features
 
 - **AI-Powered Disease Detection**: Upload plant images for instant disease identification using advanced machine learning models
